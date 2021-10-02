@@ -11,6 +11,7 @@ public class BooleanEx {
 		}
 		else {
 			System.out.println("시작합니다.");
+			
 		}
 
 	}
