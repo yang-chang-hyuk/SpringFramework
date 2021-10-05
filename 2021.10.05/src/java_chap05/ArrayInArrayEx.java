@@ -4,6 +4,8 @@ public class ArrayInArrayEx {
 
 	public static void main(String[] args) {
 //		2차원 배열 선언 방식
+//		console창 보면 
+//		mathScores[0][0] = 0, mathScores[0][1] = 0 이렇게 나와있는데 [2][3]이걸 10의자리까지 나타내준걸로 생각하면 쉬움 [3]는 1의자리까지 나누어 준거
 		int[][] mathScores = new int[2][3];
 		
 		for (int i = 0; i < mathScores.length; i++) {
