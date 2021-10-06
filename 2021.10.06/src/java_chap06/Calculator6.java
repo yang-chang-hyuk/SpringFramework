@@ -8,7 +8,7 @@ public class Calculator6 {
 	
 //	직사각형의 넓이 출력
 	double areaRectangle(double width, double height) {
-		return width * height;
+		return width * height; 
 	}
 
 }
